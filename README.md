@@ -66,7 +66,7 @@ Understand the fundamental difference between Mesh Data and the Mesh Object that
 
 (Unique Video Reference: 4_CP_CBC)
 
-# 5 Recentring Your Objects
+# 5 QT: Recentring Your Objects
 
 In this video (objectives)…
 
