@@ -20,7 +20,7 @@ You will know what is coming up in this section.
 
 (Unique Video Reference: 1_CP_CBC)
 
-# Managing A Larger Project
+# 2 Managing A Larger Project
 
 In this video (objectives)…
 
@@ -32,9 +32,9 @@ After watching (learning outcomes)…
 
 You will have your file system all setup for the project ahead and understand the importance of organisation in a larger project.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 2_CP_CBC)
 
-# Planning Your Project
+# 3 Planning Your Project
 
 In this video (objectives)…
 
@@ -47,9 +47,9 @@ After watching (learning outcomes)…
 
 You will have collected all the necessary reference material for the section and have all the measurements for your pieces and understand the importance of doing this for any other projects.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 3_CP_CBC)
 
-# Mesh Objects Vs Mesh Data
+# 4 Mesh Objects Vs Mesh Data
 
 In this video (objectives)…
 
@@ -64,9 +64,9 @@ After watching (learning outcomes)…
 
 Understand the fundamental difference between Mesh Data and the Mesh Object that contains it.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 4_CP_CBC)
 
-# Recentring Your Objects
+# 5 Recentring Your Objects
 
 In this video (objectives)…
 
@@ -77,7 +77,7 @@ After watching (learning outcomes)…
 
 You will have control of the origin of an object, and be able to manipulate your view with better precision.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 5_CP_CBC)
 
 # Creating A Standard Asset
 
@@ -86,7 +86,7 @@ In this video (objectives)…
 Chose a style of chess set.
 Decide on construction method.
 Start creating our asset.
-Construction Method
+Construction Method.
 
 Split our models in two.
 Make a standard base asset that we can work from for all the other models.
@@ -116,7 +116,7 @@ In this video (objectives)…
 
 Learn when you would duplicate an asset model.
 Choose when appending would be better.
-Duplicating Vs Appending
+Duplicating Vs Appending.
 
 Appending picks out key parts of a blend file.
 Other Scene data would have to be appended separately.
@@ -128,7 +128,7 @@ You will understand more about the choices you will make when combining and reus
 
 (Unique Video Reference: _CP_CBC)
 
-# Bridging Edge Loop
+# Bridging Edge Loops
 
 In this video (objectives)…
 
@@ -192,7 +192,7 @@ You will understand that pausing and taking note of your project, thinking about
 
 In this video (objectives)…
 
-Looking for commonality to use again
+Looking for commonality to use again.
 Speeds up our workflow no having to repeat ourselves.
 
 After watching (learning outcomes)…
@@ -235,7 +235,7 @@ You will be able to select geometry that would otherwise be difficult or impossi
 
 In this video (objectives)…
 
-Experiment with a boolean modifier.
+Experiment with a Boolean modifier.
 Understand how to apply it to our model.
 Can been used constructively and destructively.
 It can work in edit mode.
@@ -295,7 +295,7 @@ Demonstrate both zoom to mouse and rotate around selection.
 Other view options available.
 View Options
 
-View>View Selected (NumberPad .)
+View>View Selected (Number Pad .)
 View Dolly: Ctrl + Shift + Middle-Mouse / Ctrl+ Shift + +/-.
 Walk/Fly Mode: Shift + F.
 
@@ -410,7 +410,7 @@ Rendering & Exporting always converts geometry into triangles.
 Lose control over the rendering.
 You cannot always see this in the 3D window.
 Makes a huge difference with flat models and flat shading.
-Triangles and NGons
+Triangles and NGons.
 
 If your model comes to a point you might need a triangle.
 When subdividing part of you model you are likely to create an NGon elsewhere.
@@ -455,7 +455,7 @@ You will know that with models which have symmetry you should consider speeding 
 
 (Unique Video Reference: _CP_CBC)
 
-# Edge Split Modifier - Needed??
+# Edge Split Modifier
 
 In this video (objectives)…
 
@@ -501,8 +501,8 @@ You will have complete your King piece.
 
 In this video (objectives)…
 
-Setup Multiple Cameras
-Learn how to switch active cameras
+Setup multiple cameras.
+Learn how to switch active cameras.
 
 After watching (learning outcomes)…
 
@@ -544,9 +544,9 @@ You will understand what DOF is and how to set it up in Eevee
 In this video (objectives)…
 
 + Learn additional techniques to organising larger projects.
-Introduction to using groups
-Great for organisation
-Great for moving multiple items from one Blender file to another
+Introduction to using groups.
+Great for organisation.
+Great for moving multiple items from one Blender file to another.
 
 After watching (learning outcomes)…
 
@@ -574,8 +574,8 @@ You will be able to export your models ready for external use.
 
 In this video (objectives)…
 
-Grouping and organising your models
-Creating various scenes 
+Grouping and organising your models.
+Creating various scenes.
 
 After watching (learning outcomes)…
 
@@ -587,9 +587,9 @@ You will be able display your work in file in such a way that other users can se
 
 In this video (objectives)…
 
-Showing Off your work
-Techniques to making the work look special
-Importance of focus and lighting
+Showing Off your work.
+Techniques to making the work look special.
+Importance of focus and lighting.
 
 After watching (learning outcomes)…
 
@@ -601,8 +601,8 @@ You will be able to show others your work in a much better way.
 
 In this video (objectives)…
 
-Wrap up the chess up
-What we have covered in this section
+Wrap up the chess up.
+What we have covered in this section.
 Some other things you can try...
 
 After watching (learning outcomes)…
