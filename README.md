@@ -79,7 +79,7 @@ You will have control of the origin of an object, and be able to manipulate your
 
 (Unique Video Reference: 5_CP_CBC)
 
-# Creating A Standard Asset
+# 6 Creating A Standard Asset
 
 In this video (objectives)…
 
@@ -97,7 +97,7 @@ You will be able to identify repeating geometric shapes allowing you to create a
 
 (Unique Video Reference: _CP_CBC)
 
-# Using The Bevel Tool
+# 7 Using The Bevel Tool
 
 In this video (objectives)…
 
@@ -108,9 +108,21 @@ After watching (learning outcomes)…
 
 You will understand the use of the bevel tool and using the bevel tool we can smooth out a sharp edge, but it comes at a cost.
 
+(Unique Video Reference: 7_CP_CBC)
+
+# 8 QT Viewport and Camera Clipping
+
+In this video (objectives)…
+
++ Learn about clipping distance and how they affect your workflow.
+
+After watching (learning outcomes)…
+
+Be able to work at large and small
+
 (Unique Video Reference: _CP_CBC)
 
-# Appending And Duplication
+# 9 Appending Vs Duplication
 
 In this video (objectives)…
 
@@ -128,7 +140,7 @@ You will understand more about the choices you will make when combining and reus
 
 (Unique Video Reference: _CP_CBC)
 
-# Bridging Edge Loops
+# 10 Bridging Edge Loops
 
 In this video (objectives)…
 
@@ -140,6 +152,10 @@ After watching (learning outcomes)…
 You will be able to link geometry together with the same number of edges.
 
 (Unique Video Reference: _CP_CBC)
+
+# Alternative To Bevelling
+
+
 
 # Bridging Different Edge Loops
 
@@ -153,7 +169,7 @@ You will have learn how to join together geometry with differing connected edges
 
 (Unique Video Reference: _CP_CBC)
 
-# MSC Finish Off The Pawn
+# 10 MSC Finish Off The Pawn
 
 In this video (objectives)…
 
