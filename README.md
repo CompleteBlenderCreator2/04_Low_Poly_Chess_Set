@@ -95,7 +95,7 @@ After watching (learning outcomes)…
 
 You will be able to identify repeating geometric shapes allowing you to create a standard asset to streamline your workflow.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 6_CP_CBC)
 
 # 7 Using The Bevel Tool
 
@@ -114,15 +114,96 @@ You will understand the use of the bevel tool and using the bevel tool we can sm
 
 In this video (objectives)…
 
-+ Learn about clipping distance and how they affect your workflow.
+Learn about clipping distance and how they affect your workflow.
 
 After watching (learning outcomes)…
 
 Be able to work at large and small
 
+(Unique Video Reference: 8_CP_CBC)
+
+# 9 What Is Low Poly?
+
+In this video (objectives)…
+
+It is a sytle.
+It is a relative comparison of what technology is capable of.
+
+After watching (learning outcomes)…
+
+You will have a better understanding of the terminology we are using.
+
+(Unique Video Reference: 9_CP_CBC)
+
+# 10 Dissolving Geometry
+
+In this video (objectives)…
+
+How to start taking geometry away from a model.
+Simplifying the model as much as possible.
+As much geometry as necessary, no more.
+
+After watching (learning outcomes)…
+
+You will have abetter grasp of the underlaying geometry you will need to make your models.
+
 (Unique Video Reference: _CP_CBC)
 
-# 9 Appending Vs Duplication
+# Edge Rings
+
+In this video (objectives)…
+
+Learn about edge rings.
+How they help you manage your geometry.
+Definition: A series of edges which are not directly connected, but share faces.
+
+After watching (learning outcomes)…
+
+You will have know how to select edge rings.
+
+(Unique Video Reference: _CP_CBC)
+
+# Alternatives To Bevelling
+
+In this video (objectives)…
+
++ Think about future workflow.
++ Too much geometry.
+
+
+After watching (learning outcomes)…
+
+Yes, you probably knew this already - there is more than one way to do something!
+
+(Unique Video Reference: _CP_CBC)
+
+# Bridging Edge Loops
+
+In this video (objectives)…
+
+Learning the power of bridging edge loops.
+Oops our pawn is lovely but has too many polygons!
+
+After watching (learning outcomes)…
+
+You will be able to link geometry together with the same number of edges.
+
+(Unique Video Reference: _CP_CBC)
+
+
+# Bridging Different Edge Loops
+
+In this video (objectives)…
+
+How to link together dis-similar geometry.
+
+After watching (learning outcomes)…
+
+You will have learn how to join together geometry with differing connected edges.
+
+(Unique Video Reference: _CP_CBC)
+
+# Appending Vs Duplication
 
 In this video (objectives)…
 
@@ -137,35 +218,6 @@ Duplicating would be exactly the same as the original file with everything intac
 After watching (learning outcomes)…
 
 You will understand more about the choices you will make when combining and reusing your models.
-
-(Unique Video Reference: _CP_CBC)
-
-# 10 Bridging Edge Loops
-
-In this video (objectives)…
-
-Learning the power of bridging edge loops.
-Oops our pawn is lovely but has too many polygons!
-
-After watching (learning outcomes)…
-
-You will be able to link geometry together with the same number of edges.
-
-(Unique Video Reference: _CP_CBC)
-
-# Alternative To Bevelling
-
-
-
-# Bridging Different Edge Loops
-
-In this video (objectives)…
-
-How to link together dis-similar geometry.
-
-After watching (learning outcomes)…
-
-You will have learn how to join together geometry with differing connected edges.
 
 (Unique Video Reference: _CP_CBC)
 
@@ -441,20 +493,6 @@ Manually make face(s) Planar again. Normal, SZZ0.
 After watching (learning outcomes)…
 
 You will understand that non-planar geometry can ruin the surface of a model and ways to cure it.
-
-(Unique Video Reference: _CP_CBC)
-
-# Edge Rings
-
-In this video (objectives)…
-
-Learn about edge rings.
-How they help you manage your geometry.
-Definition: A series of edges which are not directly connected, but share faces.
-
-After watching (learning outcomes)…
-
-You will have know how to select edge rings.
 
 (Unique Video Reference: _CP_CBC)
 
