@@ -147,7 +147,7 @@ After watching (learning outcomes)…
 
 You will have abetter grasp of the underlaying geometry you will need to make your models.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 10_CP_CBC)
 
 # 11 Edge Rings
 
@@ -161,9 +161,9 @@ After watching (learning outcomes)…
 
 You will have know how to select edge rings.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 11_CP_CBC)
 
-# Alternatives To Bevelling
+# 12 Exploring Alternatives To Bevelling
 
 In this video (objectives)…
 
@@ -175,33 +175,7 @@ After watching (learning outcomes)…
 
 Yes, you probably knew this already - there is more than one way to do something!
 
-(Unique Video Reference: _CP_CBC)
-
-# Bridging Edge Loops
-
-In this video (objectives)…
-
-Learning the power of bridging edge loops.
-Oops our pawn is lovely but has too many polygons!
-
-After watching (learning outcomes)…
-
-You will be able to link geometry together with the same number of edges.
-
-(Unique Video Reference: _CP_CBC)
-
-
-# Bridging Different Edge Loops
-
-In this video (objectives)…
-
-How to link together dis-similar geometry.
-
-After watching (learning outcomes)…
-
-You will have learn how to join together geometry with differing connected edges.
-
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 12_CP_CBC)
 
 # Appending Vs Duplication
 
@@ -221,7 +195,36 @@ You will understand more about the choices you will make when combining and reus
 
 (Unique Video Reference: _CP_CBC)
 
-# 10 MSC Finish Off The Pawn
+# Bridging Edge Loops
+
+In this video (objectives)…
+
+Learning the power of bridging edge loops.
+Oops our pawn is lovely but has too many polygons!
+
+After watching (learning outcomes)…
+
+You will be able to link geometry together with the same number of edges.
+
+(Unique Video Reference: _CP_CBC)
+
+
+
+# Bridging Different Edge Loops
+
+In this video (objectives)…
+
+How to link together dis-similar geometry.
+
+After watching (learning outcomes)…
+
+You will have learn how to join together geometry with differing connected edges.
+
+(Unique Video Reference: _CP_CBC)
+
+
+
+# MSC Finish Off The Pawn
 
 In this video (objectives)…
 
