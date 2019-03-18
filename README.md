@@ -149,7 +149,7 @@ You will have abetter grasp of the underlaying geometry you will need to make yo
 
 (Unique Video Reference: _CP_CBC)
 
-# Edge Rings
+# 11 Edge Rings
 
 In this video (objectives)…
 
