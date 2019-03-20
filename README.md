@@ -177,7 +177,7 @@ Yes, you probably knew this already - there is more than one way to do something
 
 (Unique Video Reference: 12_CP_CBC)
 
-# Appending Vs Duplication
+# 13 Appending Vs Duplication
 
 In this video (objectives)…
 
