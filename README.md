@@ -195,7 +195,7 @@ You will understand more about the choices you will make when combining and reus
 
 (Unique Video Reference: _CP_CBC)
 
-# Bridging Edge Loops
+# 14 Bridging Edge Loops
 
 In this video (objectives)…
 
