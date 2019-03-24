@@ -208,63 +208,12 @@ You will be able to link geometry together with the same number of edges.
 
 (Unique Video Reference: _CP_CBC)
 
-
-
-# Bridging Different Edge Loops
-
-In this video (objectives)…
-
-How to link together dis-similar geometry.
-
-After watching (learning outcomes)…
-
-You will have learn how to join together geometry with differing connected edges.
-
-(Unique Video Reference: _CP_CBC)
-
-
-
-# MSC Finish Off The Pawn
-
-In this video (objectives)…
-
-Open up the new Low Poly base piece.
-Make sure you are working on the new Blend file.
-Be mindful to keep the top sphere 8 segments.
-
-After watching (learning outcomes)…
-
-You will have completed your first chess piece.
-
-(Unique Video Reference: _CP_CBC)
-
-# Managing Your Chess Scene Assets
-
-In this video (objectives)…
-
-Decide how we can manage our materials.
-Creating materials in one blend file.
-Each project will have a different way of handling materials depending on it's size and scope.
-
-Materials In Our Project
-
-32 Pieces: Black & White.
-Board: Black & White & Wooden Surround.
-5 Materials in the project.
-We're going to assign materials in a Chess Scene Blend file.
-
-After watching (learning outcomes)…
-
-You will understand that pausing and taking note of your project, thinking about how it is developing and how you might need to re organise your project are it gets larger.
-
-(Unique Video Reference: _CP_CBC)
-
-# Using Common Features
+# 15 Using Common Features
 
 In this video (objectives)…
 
 Looking for commonality to use again.
-Speeds up our workflow no having to repeat ourselves.
+Speeds up our workflow not having to repeat ourselves.
 
 After watching (learning outcomes)…
 
@@ -330,6 +279,27 @@ Parent > Child > Grandchild > Great Grandchild!
 After watching (learning outcomes)…
 
 You will be able to give your objects a hierarchy in your scene, allowing another way of controlling your pieces
+(Unique Video Reference: _CP_CBC)
+
+# Managing Your Chess Scene Assets
+
+In this video (objectives)…
+
+Decide how we can manage our materials.
+Creating materials in one blend file.
+Each project will have a different way of handling materials depending on it's size and scope.
+
+Materials In Our Project
+
+32 Pieces: Black & White.
+Board: Black & White & Wooden Surround.
+5 Materials in the project.
+We're going to assign materials in a Chess Scene Blend file.
+
+After watching (learning outcomes)…
+
+You will understand that pausing and taking note of your project, thinking about how it is developing and how you might need to re organise your project are it gets larger.
+
 (Unique Video Reference: _CP_CBC)
 
 # Introduction To Empties
@@ -668,4 +638,18 @@ You will have completed the section and feel ready to take on more complex proje
 
 (Unique Video Reference: _CP_CBC)
 
+_______
+EXTRAS
+_______
 
+# Bridging Different Edge Loops
+
+In this video (objectives)…
+
+How to link together dis-similar geometry.
+
+After watching (learning outcomes)…
+
+You will have learn how to join together geometry with differing connected edges.
+
+(Unique Video Reference: _CP_CBC)
