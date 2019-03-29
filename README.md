@@ -110,7 +110,7 @@ You will understand the use of the bevel tool and using the bevel tool we can sm
 
 (Unique Video Reference: 7_CP_CBC)
 
-# 8 QT Viewport and Camera Clipping
+# 8 QT View port and Camera Clipping
 
 In this video (objectives)…
 
@@ -126,7 +126,7 @@ Be able to work at large and small
 
 In this video (objectives)…
 
-It is a sytle.
+It is a style.
 It is a relative comparison of what technology is capable of.
 
 After watching (learning outcomes)…
@@ -145,7 +145,7 @@ As much geometry as necessary, no more.
 
 After watching (learning outcomes)…
 
-You will have abetter grasp of the underlaying geometry you will need to make your models.
+You will have a better grasp of the underlying geometry you will need to make your models.
 
 (Unique Video Reference: 10_CP_CBC)
 
@@ -163,13 +163,12 @@ You will have know how to select edge rings.
 
 (Unique Video Reference: 11_CP_CBC)
 
-# 12 Exploring Alternatives To Bevelling
+# 12 Exploring Alternatives To Beveling
 
 In this video (objectives)…
 
-+ Think about future workflow.
-+ Too much geometry.
-
+Think about future workflow.
+Too much geometry.
 
 After watching (learning outcomes)…
 
@@ -193,7 +192,7 @@ After watching (learning outcomes)…
 
 You will understand more about the choices you will make when combining and reusing your models.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 13_CP_CBC)
 
 # 14 Bridging Edge Loops
 
@@ -206,7 +205,7 @@ After watching (learning outcomes)…
 
 You will be able to link geometry together with the same number of edges.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 14_CP_CBC)
 
 # 15 Using Common Features
 
@@ -219,9 +218,9 @@ After watching (learning outcomes)…
 
 Reinforcement of the idea of reusing previous work to speed up your workflow.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 15_CP_CBC)
 
-# 3D Cursor And Origins
+# 16 3D Cursor And Origins
 
 In this video (objectives)…
 
@@ -232,6 +231,22 @@ Use the 3D Cursor and Origin to accurately control our piece.
 After watching (learning outcomes)…
 
 Greater understanding on controlling the mesh datas location relative to the objects origin.
+
+(Unique Video Reference: 16_CP_CBC)
+
+# Boolean Modifier
+
+In this video (objectives)…
+
+Experiment with a Boolean modifier.
+Understand how to apply it to our model.
+Can been used constructively and destructively.
+It can work in edit mode.
+Real time and live!
+
+After watching (learning outcomes)…
+
+You will be able to use the boolean modifier to create new more complex geometry.
 
 (Unique Video Reference: _CP_CBC)
 
@@ -251,21 +266,7 @@ You will be able to select geometry that would otherwise be difficult or impossi
 
 (Unique Video Reference: _CP_CBC)
 
-# Boolean Modifier
 
-In this video (objectives)…
-
-Experiment with a Boolean modifier.
-Understand how to apply it to our model.
-Can been used constructively and destructively.
-It can work in edit mode.
-Real time and live!
-
-After watching (learning outcomes)…
-
-You will be able to use the boolean modifier to create new more complex geometry.
-
-(Unique Video Reference: _CP_CBC)
 
 # Parent And Children - Collections and Organisations
 
