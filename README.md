@@ -234,7 +234,7 @@ Greater understanding on controlling the mesh datas location relative to the obj
 
 (Unique Video Reference: 16_CP_CBC)
 
-# Boolean Modifier
+# 17 Boolean Modifier
 
 In this video (objectives)…
 
