@@ -248,27 +248,9 @@ After watching (learning outcomes)…
 
 You will be able to use the boolean modifier to create new more complex geometry.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 17_CP_CBC)
 
-# Selecting Hidden Geometry
-
-In this video (objectives)…
-
-Learn how to select geometry that isn’t visible.
-Two straight forward ways.
-Switch viewport shading to wireframe.
-Toggle ‘Limit selection to visible’.
-Build the rest of the Bishop.
-
-After watching (learning outcomes)…
-
-You will be able to select geometry that would otherwise be difficult or impossible to select.
-
-(Unique Video Reference: _CP_CBC)
-
-
-
-# Parent And Children - Collections and Organisations
+# 18 Parents And Children - Collections and Organisations
 
 In this video (objectives)…
 
@@ -280,7 +262,7 @@ Parent > Child > Grandchild > Great Grandchild!
 After watching (learning outcomes)…
 
 You will be able to give your objects a hierarchy in your scene, allowing another way of controlling your pieces
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 18_CP_CBC)
 
 # Managing Your Chess Scene Assets
 
