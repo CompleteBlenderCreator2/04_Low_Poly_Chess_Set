@@ -264,6 +264,50 @@ After watching (learning outcomes)…
 You will be able to give your objects a hierarchy in your scene, allowing another way of controlling your pieces
 (Unique Video Reference: 18_CP_CBC)
 
+# 19 Introduction To Empties
+
+In this video (objectives)…
+
+Introducing the concept of an empty.
+An empty is a null object, and has no geometry.
+They can be used as a handle to control objects.
+Used as a parent object for a group of objects.
+Many other uses.
+Keeping It Lean
+
+Append the bishop into our chess scene.
+Check everything is right proportion wise.
+Start filling up our board, creating the white pawns.
+Link duplicate our bishop and pawns.
+Managing our models in this scene.
+
+After watching (learning outcomes)…
+
+You will understand what empties are and a few uses for them.
+
+(Unique Video Reference: 19_CP_CBC)
+
+# 20 QT Better Viewport Control
+
+In this video (objectives)…
+
+Great for working around more complex scenes.
+We're changing the user preferences.
+Demonstrate both zoom to mouse and rotate around selection.
+Other view options available.
+View Options
+
+View>View Selected (Number Pad .)
+View Dolly: Ctrl + Shift + Middle-Mouse / Ctrl+ Shift + +/-.
+Walk/Fly Mode: Shift + `.
+
+After watching (learning outcomes)…
+
+You will have much better control of the 3D Editor.
+
+(Unique Video Reference: 20_CP_CBC)
+
+
 # Managing Your Chess Scene Assets
 
 In this video (objectives)…
@@ -285,49 +329,7 @@ You will understand that pausing and taking note of your project, thinking about
 
 (Unique Video Reference: _CP_CBC)
 
-# Introduction To Empties
 
-In this video (objectives)…
-
-Introducing the concept of an empty.
-An empty is a null object, and has no geometry.
-They can be used as a handle to control objects.
-Used as a parent object for a group of objects.
-Many other uses.
-Keeping It Lean
-
-Append the bishop into our chess scene.
-Check everything is right proportion wise.
-Start filling up our board, creating the white pawns.
-Link duplicate our bishop and pawns.
-Managing our models in this scene.
-
-After watching (learning outcomes)…
-
-You will understand what empties are and a few uses for them.
-
-(Unique Video Reference: _CP_CBC)
-
-
-# Zoom To Mouse And Rotate Around Selection
-
-In this video (objectives)…
-
-Great for working around more complex scenes.
-We're changing the user preferences.
-Demonstrate both zoom to mouse and rotate around selection.
-Other view options available.
-View Options
-
-View>View Selected (Number Pad .)
-View Dolly: Ctrl + Shift + Middle-Mouse / Ctrl+ Shift + +/-.
-Walk/Fly Mode: Shift + F.
-
-After watching (learning outcomes)…
-
-You will have much better control of the 3D Editor.
-
-(Unique Video Reference: _CP_CBC)
 
 # Lighting 2
 
@@ -338,8 +340,6 @@ Light is handled differently in Cycles.
 Adjusting lamps properties and seeing it's affect.
 We will switch to rendered mode in the viewport shading options to see this effect.
 Further Reading on Blender Render Lighting:
-
-http://wiki.blender.org/index.php/Doc:2.4/Manual/Lighting/Lights/Light_Attenuation
 
 After watching (learning outcomes)…
 
