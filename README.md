@@ -343,7 +343,7 @@ You will have a better understanding of material setups and  of how light intera
 
 (Unique Video Reference: _CP_CBC)
 
-# 22 Hiding Un-needed Objects
+# 23 Hiding Un-needed Objects
 
 In this video (objectives)…
 
