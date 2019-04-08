@@ -318,7 +318,7 @@ Point - Omnidirectional
 Sun - Directional and Parallel
 Spot - Cone - similar to omni in result
 Area - Like a window, directional similar to point.
-Adjusting lamps properties and seeing it's affect.
+Adjusting lamps properties and seeing its effect.
 We will switch to rendered mode in the viewport shading options to see this effect.
 
 After watching (learning outcomes)…
@@ -327,7 +327,23 @@ You will understand lighting much better and be able to use if effectively to li
 
 (Unique Video Reference: _CP_CBC)
 
-# Hiding Un-needed Objects
+
+# 22 Controlling Materials - Roughness
+
+In this video (objectives)…
+
+Works in Eevee and Cycles.
+0% roughneess is a mirrored surface.
+100% is a diffuse surface.
+Eevee - you have to turn on reflections! 
+
+After watching (learning outcomes)…
+
+You will have a better understanding of material setups and  of how light interacts with your models.
+
+(Unique Video Reference: _CP_CBC)
+
+# 22 Hiding Un-needed Objects
 
 In this video (objectives)…
 
@@ -338,27 +354,6 @@ Hide construction elements from your scene, from both view and rendering.
 After watching (learning outcomes)…
 
 You will be able to selective hide parts of your model.
-
-(Unique Video Reference: _CP_CBC)
-
-# Controlling Materials - Roughness
-
-In this video (objectives)…
-
-Need to understand these for getting rendering right.
-Looking at the two in isolation.
-Combining them to see the effect.
-Works in Eevee and Cycles
-Diffuse vs Specular Reflections
-
-Both are types of reflection.
-Diffuse is when Light scatters as it hits a surface.
-Specular is direct reflection of the light to the viewer.
-Materials are often a mix of the two.
-
-After watching (learning outcomes)…
-
-You will have a better understanding of material setups and  of how light interacts with your models.
 
 (Unique Video Reference: _CP_CBC)
 
