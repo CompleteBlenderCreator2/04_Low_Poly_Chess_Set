@@ -308,38 +308,18 @@ You will have much better control of the 3D Editor.
 (Unique Video Reference: 20_CP_CBC)
 
 
-# Managing Your Chess Scene Assets
+# 21 Lighting - Lamp Types
 
 In this video (objectives)…
 
-Decide how we can manage our materials.
-Creating materials in one blend file.
-Each project will have a different way of handling materials depending on it's size and scope.
-
-Materials In Our Project
-
-32 Pieces: Black & White.
-Board: Black & White & Wooden Surround.
-5 Materials in the project.
-We're going to assign materials in a Chess Scene Blend file.
-
-After watching (learning outcomes)…
-
-You will understand that pausing and taking note of your project, thinking about how it is developing and how you might need to re organise your project are it gets larger.
-
-(Unique Video Reference: _CP_CBC)
-
-
-
-# Lighting 2
-
-In this video (objectives)…
-
-Understand that lamps apply to Blender Render.
-Light is handled differently in Cycles.
+4 Lamp Types
+Similar in Cycles
+Point - Omnidirectional
+Sun - Directional and Parallel
+Spot - Cone - similar to omni in result
+Area - Like a window, directional similar to point.
 Adjusting lamps properties and seeing it's affect.
 We will switch to rendered mode in the viewport shading options to see this effect.
-Further Reading on Blender Render Lighting:
 
 After watching (learning outcomes)…
 
@@ -361,14 +341,14 @@ You will be able to selective hide parts of your model.
 
 (Unique Video Reference: _CP_CBC)
 
-# Diffuse and Specular - Eevee Equiv?
+# Controlling Materials - Roughness
 
 In this video (objectives)…
 
 Need to understand these for getting rendering right.
 Looking at the two in isolation.
 Combining them to see the effect.
-Still using Blender Render.
+Works in Eevee and Cycles
 Diffuse vs Specular Reflections
 
 Both are types of reflection.
@@ -382,6 +362,7 @@ You will have a better understanding of material setups and  of how light intera
 
 (Unique Video Reference: _CP_CBC)
 
+
 # Your First Texture
 
 In this video (objectives)…
@@ -394,6 +375,28 @@ Apply a texture to the board surround.
 After watching (learning outcomes)…
 
 You will have learnt the basics allowing you to be able to assign a texture to your models.
+
+(Unique Video Reference: _CP_CBC)
+
+
+# Managing Your Chess Scene Assets
+
+In this video (objectives)…
+
+Decide how we can manage our materials.
+Creating materials in one blend file.
+Each project will have a different way of handling materials depending on it's size and scope.
+
+Materials In Our Project
+
+32 Pieces: Black & White.
+Board: Black & White & Wooden Surround.
+5 Materials in the project.
+We're going to assign materials in a Chess Scene Blend file.
+
+After watching (learning outcomes)…
+
+You will understand that pausing and taking note of your project, thinking about how it is developing and how you might need to re organise your project are it gets larger.
 
 (Unique Video Reference: _CP_CBC)
 
