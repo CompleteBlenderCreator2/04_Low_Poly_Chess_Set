@@ -358,7 +358,7 @@ You will be able to selective hide parts of your model.
 (Unique Video Reference: _CP_CBC)
 
 
-# Your First Texture
+# 24 Your First Texture
 
 In this video (objectives)…
 
