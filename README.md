@@ -373,8 +373,9 @@ You will have learnt the basics allowing you to be able to assign a texture to y
 
 (Unique Video Reference: _CP_CBC)
 
+# 25 Introduction To The Mapping Node 
 
-# Managing Your Chess Scene Assets
+# 26 Managing Your Chess Scene Assets
 
 In this video (objectives)…
 
