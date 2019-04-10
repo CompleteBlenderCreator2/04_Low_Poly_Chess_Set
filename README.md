@@ -325,7 +325,7 @@ After watching (learning outcomes)…
 
 You will understand lighting much better and be able to use if effectively to light your scene.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 21_CP_CBC)
 
 
 # 22 Controlling Materials - Roughness
@@ -341,7 +341,7 @@ After watching (learning outcomes)…
 
 You will have a better understanding of material setups and  of how light interacts with your models.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 22_CP_CBC)
 
 # 23 Hiding Un-needed Objects
 
@@ -355,7 +355,7 @@ After watching (learning outcomes)…
 
 You will be able to selective hide parts of your model.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 23_CP_CBC)
 
 
 # 24 Your First Texture
@@ -371,9 +371,11 @@ After watching (learning outcomes)…
 
 You will have learnt the basics allowing you to be able to assign a texture to your models.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 24_CP_CBC)
 
 # 25 Introduction To The Mapping Node 
+
+(Unique Video Reference: 25_CP_CBC)
 
 # 26 Managing Your Chess Scene Assets
 
@@ -394,7 +396,7 @@ After watching (learning outcomes)…
 
 You will understand that pausing and taking note of your project, thinking about how it is developing and how you might need to re organise your project are it gets larger.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 26_CP_CBC)
 
 # 27 Generated Textures
 
@@ -407,9 +409,9 @@ After watching (learning outcomes)…
 
 You will have looked at your first procedural texture!
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 27_CP_CBC)
 
-# Topology - Tris, Quads, nGons
+# 28 Topology - Tris, Quads, nGons
 
 In this video (objectives)…
 
@@ -422,9 +424,9 @@ After watching (learning outcomes)…
 
 You will have a better understanding of different basic topology types and their advantages and disadvantages.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 28_CP_CBC)
 
-# Non-Planar Geometry
+# QT Non-Planar Geometry
 
 In this video (objectives)…
 
