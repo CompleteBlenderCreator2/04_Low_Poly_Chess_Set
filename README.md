@@ -396,7 +396,7 @@ You will understand that pausing and taking note of your project, thinking about
 
 (Unique Video Reference: _CP_CBC)
 
-# Generated Textures
+# 27 Generated Textures
 
 In this video (objectives)…
 
