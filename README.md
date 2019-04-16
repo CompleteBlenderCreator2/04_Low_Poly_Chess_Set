@@ -426,7 +426,7 @@ You will have a better understanding of different basic topology types and their
 
 (Unique Video Reference: 28_CP_CBC)
 
-# QT Non-Planar Geometry
+# 29 QT Non-Planar Geometry
 
 In this video (objectives)…
 
@@ -451,9 +451,9 @@ After watching (learning outcomes)…
 
 You will understand that non-planar geometry can ruin the surface of a model and ways to cure it.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 29_CP_CBC)
 
-# The Mirror Modifier
+# 30 The Mirror Modifier
 
 In this video (objectives)…
 
@@ -464,7 +464,7 @@ After watching (learning outcomes)…
 
 You will know that with models which have symmetry you should consider speeding up your workflow by using the mirror modifier.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 30_CP_CBC)
 
 # Edge Split Modifier
 
