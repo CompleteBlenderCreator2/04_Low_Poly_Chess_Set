@@ -480,7 +480,7 @@ You will have complete your Rook piece.
 
 (Unique Video Reference: 31_CP_CBC)
 
-# King Challenge
+# 32 King Challenge
 
 In this video (objectives)…
 
@@ -492,7 +492,7 @@ After watching (learning outcomes)…
 
 You will have complete your King piece.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 32_CP_CBC)
 
 # Multiple Cameras
 
