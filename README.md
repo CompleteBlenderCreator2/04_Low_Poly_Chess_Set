@@ -458,7 +458,7 @@ You will understand that non-planar geometry can ruin the surface of a model and
 In this video (objectives)…
 
 How to setup and use the Mirror modifier.
-Start creating our Knight.
+Creating our Knight.
 
 After watching (learning outcomes)…
 
