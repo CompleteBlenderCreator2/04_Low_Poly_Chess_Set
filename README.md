@@ -466,22 +466,8 @@ You will know that with models which have symmetry you should consider speeding 
 
 (Unique Video Reference: 30_CP_CBC)
 
-# Edge Split Modifier
 
-In this video (objectives)…
-
-Focus on creating a free form model.
-Ensuring faces are not triangulated when being created to keep with our style.
-Introduce the edge split modifier.
-This is the basis of organic modelling.
-
-After watching (learning outcomes)…
-
-A useful modifier that separates all faces in a non-destructive way.
-
-(Unique Video Reference: _CP_CBC)
-
-# Rook Challenge
+# 31 Rook Challenge
 
 In this video (objectives)…
 
@@ -492,7 +478,7 @@ After watching (learning outcomes)…
 
 You will have complete your Rook piece.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 31_CP_CBC)
 
 # King Challenge
 
