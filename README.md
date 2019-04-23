@@ -494,7 +494,11 @@ You will have complete your King piece.
 
 (Unique Video Reference: 32_CP_CBC)
 
-# Multiple Cameras
+# 33 Setup Your Scene
+
+(Unique Video Reference: 33_CP_CBC)
+
+# 34 Multiple Cameras
 
 In this video (objectives)…
 
