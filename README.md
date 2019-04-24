@@ -494,7 +494,7 @@ You will have complete your King piece.
 
 (Unique Video Reference: 32_CP_CBC)
 
-# 33 Setup Your Scene
+# 33 Setup Your Chess Scene
 
 (Unique Video Reference: 33_CP_CBC)
 
@@ -509,7 +509,7 @@ After watching (learning outcomes)…
 
 You will know how to control multiple cameras in a scene.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 34_CP_CBC)
 
 
 # Camera Properties
@@ -525,7 +525,7 @@ After watching (learning outcomes)…
 
 You will be able to alter the properties of a camera
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 35_CP_CBC)
 
 # Depth Of Field In Eevee
 
