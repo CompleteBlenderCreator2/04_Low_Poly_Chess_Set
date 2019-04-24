@@ -512,7 +512,7 @@ You will know how to control multiple cameras in a scene.
 (Unique Video Reference: 34_CP_CBC)
 
 
-# Camera Properties
+# 35 Camera Properties
 
 In this video (objectives)…
 
