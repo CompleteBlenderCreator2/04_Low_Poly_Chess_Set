@@ -523,11 +523,11 @@ You can have more than one camera, but only one active camera.
 
 After watching (learning outcomes)…
 
-You will be able to alter the properties of a camera
+You will be able to alter the properties of a camera.
 
 (Unique Video Reference: 35_CP_CBC)
 
-# Depth Of Field In Eevee
+# 36 Depth Of Field In Eevee
 
 In this video (objectives)…
 
@@ -536,9 +536,9 @@ Turn On Depth Of Field for Eevee.
 
 After watching (learning outcomes)…
 
-You will understand what DOF is and how to set it up in Eevee
+You will understand what DOF is and how to set it up in Eevee.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 36_CP_CBC)
 
 # Grouping for Export / Collections
 
