@@ -540,7 +540,7 @@ You will understand what DOF is and how to set it up in Eevee.
 
 (Unique Video Reference: 36_CP_CBC)
 
-# Grouping for Export / Collections
+# 37 Grouping for Export / Collections
 
 In this video (objectives)…
 
@@ -553,7 +553,7 @@ After watching (learning outcomes)…
 
 You will be able to group objects together to help with export/import.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 37_CP_CBC)
 
 # Exporting The Chess Set - Move to GAP?
 
