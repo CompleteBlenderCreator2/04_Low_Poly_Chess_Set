@@ -555,23 +555,7 @@ You will be able to group objects together to help with export/import.
 
 (Unique Video Reference: 37_CP_CBC)
 
-# Exporting The Chess Set - Move to GAP?
-
-In this video (objectives)…
-
-Tidy our folders for future access.
-Export your model(s) as an FBX.
-Import .FBX into Unreal and Unity game engines.
-Opening Blender models in Unity 5.
-About exporting textures and materials.
-
-After watching (learning outcomes)…
-
-You will be able to export your models ready for external use.
-
-(Unique Video Reference: _CP_CBC)
-
-# Creating An Assets Portfolio Scene
+# 38 Creating An Assets Portfolio Scene
 
 In this video (objectives)…
 
@@ -582,21 +566,7 @@ After watching (learning outcomes)…
 
 You will be able display your work in file in such a way that other users can see the contents easily.
 
-(Unique Video Reference: _CP_CBC)
-
-# Creating A Small Showreel
-
-In this video (objectives)…
-
-Showing Off your work.
-Techniques to making the work look special.
-Importance of focus and lighting.
-
-After watching (learning outcomes)…
-
-You will be able to show others your work in a much better way.
-
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 38_CP_CBC)
 
 # Chess Set Wrap Up
 
@@ -625,5 +595,35 @@ How to link together dis-similar geometry.
 After watching (learning outcomes)…
 
 You will have learn how to join together geometry with differing connected edges.
+
+(Unique Video Reference: _CP_CBC)
+
+# Exporting The Chess Set - Move to GAP?
+
+In this video (objectives)…
+
+Tidy our folders for future access.
+Export your model(s) as an FBX.
+Import .FBX into Unreal and Unity game engines.
+Opening Blender models in Unity 5.
+About exporting textures and materials.
+
+After watching (learning outcomes)…
+
+You will be able to export your models ready for external use.
+
+(Unique Video Reference: _CP_CBC)
+
+# Creating A Small Showreel
+
+In this video (objectives)…
+
+Showing Off your work.
+Techniques to making the work look special.
+Importance of focus and lighting.
+
+After watching (learning outcomes)…
+
+You will be able to show others your work in a much better way.
 
 (Unique Video Reference: _CP_CBC)
