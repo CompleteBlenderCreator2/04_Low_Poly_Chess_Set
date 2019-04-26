@@ -568,7 +568,7 @@ You will be able display your work in file in such a way that other users can se
 
 (Unique Video Reference: 38_CP_CBC)
 
-# Chess Set Wrap Up
+# 39 Chess Set Wrap Up
 
 In this video (objectives)…
 
@@ -580,7 +580,7 @@ After watching (learning outcomes)…
 
 You will have completed the section and feel ready to take on more complex projects.
 
-(Unique Video Reference: _CP_CBC)
+(Unique Video Reference: 39_CP_CBC)
 
 _______
 EXTRAS
