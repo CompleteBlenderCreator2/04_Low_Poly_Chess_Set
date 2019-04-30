@@ -250,6 +250,8 @@ You will be able to use the boolean modifier to create new more complex geometry
 
 (Unique Video Reference: 17_CP_CBC)
 
+# 17a Boolean In Edit Mode
+
 # 18 Parents And Children - Collections and Organisations
 
 In this video (objectives)…
